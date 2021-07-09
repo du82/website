@@ -1,8 +1,7 @@
 {
   "someSidebar": {
-    "doc1",
+    "doc1": null,
     "Main": [
-      "intro",
       "doc1",
       "doc2",
       "doc3"
